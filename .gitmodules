@@ -1,0 +1,2 @@
+[submodule "backend"]
+	url = https://github.com/zaidmukaddam/Movie-DB-backend.git
